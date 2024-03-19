@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lahiru118
-- 👀 SoftwareEmgineer
+- 👀 Software Engineer
 - 🌱 Interested in Artificial Intelligence
 - 
 
