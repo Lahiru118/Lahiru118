@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg"
+  <img  src="![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)"
        alt="snake" /></a>
 </div>
 
