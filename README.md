@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Lahiru;Software+Engineer)](https://git.io/typing-svg)
 
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 
 <div align="center">
